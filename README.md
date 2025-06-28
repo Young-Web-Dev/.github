@@ -1,7 +1,9 @@
-# .github
-Here’s a refined, detailed, and motivating README.md for Young-Web-Dev, drawing from your vision and the context of your other projects and tech stack:
 
 ---
+
+<p align="left">
+  <img src="https://avatars.githubusercontent.com/u/1010319394?v=4" alt="Young-Web-Dev Logo" width="128" height="128">
+</p>
 
 # Young-Web-Dev
 
@@ -53,6 +55,43 @@ Whether you’re into JavaScript, TypeScript, CSS, or HTML, or just getting star
 
 ---
 
+## 🔗 Useful Links
+
+- **Email:** [xtarflex@gmail.com](mailto:xtarflex@gmail.com)
+- **Main Organization Repository:** [Young-Web-Dev/.github](https://github.com/Young-Web-Dev/.github)
+- **Member Projects:**
+  - [xtarflex/portfolio](https://github.com/xtarflex/portfolio)
+  - [xtarflex/clazztocare](https://github.com/xtarflex/clazztocare)
+  - [xtarflex/Aspirepath-](https://github.com/xtarflex/Aspirepath-)
+  - [xtarflex/xtarflex](https://github.com/xtarflex/xtarflex)
+
+---
+
+## 📝 Guidelines
+
+- Be kind and respectful to all members.
+- Constructive feedback is encouraged—focus on improvement, not criticism.
+- Share your knowledge freely and help others when you can.
+- Ask questions without hesitation—every member started somewhere.
+- Keep discussions inclusive and welcoming.
+- Use clear, descriptive commit messages in collaborative projects.
+- Respect others’ time: clearly state your needs, and be patient when waiting for help.
+
+---
+
+## 🤝 Code of Conduct
+
+We are committed to providing a welcoming and inclusive environment for everyone. By participating, you agree to:
+
+- Treat everyone with respect and empathy.
+- Never tolerate harassment, discrimination, or inappropriate behavior.
+- Celebrate differences—diversity makes us stronger.
+- Use inclusive language and avoid slang that may exclude others.
+- Report any unacceptable behavior to the organization maintainers.
+- Remember: this is a safe space to learn, grow, and collaborate.
+
+---
+
 ## 🤗 Why Young-Web-Dev?
 
 > “Alone we can do so little; together we can do so much.”  
@@ -65,5 +104,3 @@ If you want to code, learn, build, or just make new friends, Young-Web-Dev is fo
 **Feel free to suggest improvements or add your vision to this document—this is your community!**
 
 ---
-
-Let me know if you want to add guidelines, a code of conduct, or details about specific existing projects as well!
